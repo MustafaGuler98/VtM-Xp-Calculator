@@ -1,6 +1,6 @@
 # Vampire: The Masquerade - Community XP Calculator
 
-A C# command-line tool to automate starting XP calculation for the Alacakaranlýkta Ýstanbul PBP community.
+A C# command-line tool to automate starting XP calculation for the Alacakaranlikta Istanbul PBP community.
 
 
 ## About The Project
